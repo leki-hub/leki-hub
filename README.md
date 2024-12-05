@@ -3,7 +3,7 @@
 - 🌱 I’m currently Creating Tailwind Templates.
 - 💞️ I’m looking for Web develoment jobs and collaboration.
 - 📫 I'm availlable, through linkedin. 
-- 😄 Pronouns:Coddie.
+- 😄 Pronouns:Debugger.
 - ⚡ Fun fact: When it's your time, even the basket will hold water for you.
 
 <!---
