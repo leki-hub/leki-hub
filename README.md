@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leki Emmanuel.
-- 👀 I’m a Fullstack Software Engineer.
+- 👀 I’m a Fullstack Software Engineer and Data Analyst.
 - 🌱 I’m currently working with Tall stack [passionately].
 - 💞️ I’m open for software development and  data sience opportunities.
 - 📫 I'm availlable, through linkedin. 
